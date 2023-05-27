@@ -1,0 +1,11 @@
+Department ID:  Department Name:  	HOD Name: 	   No.of Staff  No.of Students
+
+901		Department of ICS	Muhammad Ehtisham       22  	40
+902		Department of FSC-Eng	Muhammad Ashraf         27	60
+903  		Department of Arts  	Gulam Mustafa           15 	30
+904             Department of Medical   Muhammad Nazim          29      60
+905             DepartmentofPsychology  Muhammad Imran          23      30
+906             Department of Commerce  Muhammad Adnan          18      45
+                
+8           	DSNT                  	Ahmed           	22    	109                 
+8           	DSNT                  	Ahmed           	22    	109                 

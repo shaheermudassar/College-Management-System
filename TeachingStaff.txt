@@ -1,0 +1,43 @@
+StaffID		  Name		  DepartmentID	  Salary
+
+601  		  Ma'am Uzma   	     	901	   90000
+602               Ma'am Maria        	902        80000
+603               Ma'am Iqra         	903        70000
+604               Ma'am Ansif        	904        60000
+605               Ma'am Faiza        	905        50000
+606               Ma'am Amna         	906        90000     
+607               Ma'am Zainab       	901        80000
+608               Ma'am Hina         	902        70000
+609               Ma'am Rubina       	903        60000
+610               Ma'am Iram         	904        50000
+611               Ma'am Maryam       	905        90000
+612               Ma'am Aqsa         	906        80000
+613               Ma'am Shista       	901        70000
+614               Ma'am Huma         	902        60000
+615               Ma'am Zara         	903        50000
+616               Ma'am Ameema       	904        90000
+617               Ma'am Nimra        	905        80000
+618               Ma'am Taniya       	906        70000
+619               Ma'am Sameema      	901        60000
+620               Ma'am Waleeja      	902        50000
+621               M.Ehtisham         	903        90000
+622               M.Ashraf           	904        80000
+623               M.Ikhlaq           	905        70000
+624               M.Rauf             	906        60000
+625               M.Jabir            	901        50000
+626               M.Umer             	902        90000
+627               M.Hannan           	903        80000
+628               M.Shahid           	904        70000
+629               M.Zahid            	905        60000
+630               M.Moazam           	906        50000
+631               M.Sheraz           	901        90000
+632               M.Naeem            	902        80000
+633               M.Khurram          	903        70000
+634               M.Hadi             	904        60000
+635               M.SherDil          	905        50000
+636               M.Qamar            	906        90000
+637               M.Hamza            	901        80000
+638               M.Hassan           	902        70000
+639               M.Zuhaz            	903        60000
+640               M.Furqan           	904        50000
+

@@ -1,0 +1,102 @@
+ID	Name		 	Gender	      	Year        	Class Room		Fee Status	Attendance%
+	
+1001	Tabish   	  	Male	    	2nd Year	  831         		Unpaid            77
+1002    Zahib             	Male      	1st Year          832         		Paid              87
+1003    Nazim             	Male      	2nd Year          833         		Unpaid            71
+1004    Azam              	Male      	1st Year          834         		Paid              81
+1005    Aftab Akram       	Male      	2nd Year          835         		Paid              91
+1006    Agha              	Male      	1st Year          836         		Paid              72
+1007    Faheem            	Male      	2nd Year          837         		Paid              82
+1008    Faiz              	Male      	1st Year          838         		Unpaid            92
+1009    Irshad            	Male      	2nd Year          839         		Paid              73
+1010    Shamsher          	Male      	1st Year          840         		Unpaid            83
+1011    Anas              	Male      	2nd Year          841         		Paid              93
+1012    Muzammil          	Male      	1st Year          842         		Paid              74
+1013    Valli             	Male      	2nd Year          843         		Paid              84
+1014    Saqib             	Male      	1st Year          844         		Paid              94
+1015    Saad              	Male      	2nd Year          845         		Paid              75
+1016    Irtaza            	Male      	1st Year          846         		Unpaid            85
+1017    Taimoor Saleem    	Male      	2nd Year          847         		Paid              95
+1018    Maikael           	Male      	1st Year          848         		Paid              76
+1019    Hufaifa Kamran    	Male      	2nd Year          849         		Paid              86
+1020    Orhan             	Male      	1st Year          850         		Paid              96
+1021    Zameer            	Male      	2nd Year          832         		Paid              77
+1022    Uzair Ali         	Male      	1st Year          831         		Paid              87
+1023    Ubaid             	Male      	2nd Year          830         		Paid              97
+1024    Akbar             	Male      	1st Year          849         		Unpaid            78
+1025    Suhaim            	Male      	2nd Year          848         		Paid              88
+1026    Rameez            	Male      	1st Year          841         		Paid              98
+1027    Rayyaz            	Male      	2nd Year          842         		Paid              79
+1028    Toukeer           	Male      	1st Year          843         		Paid              89
+1029    Hammad Khan       	Male      	1st Year          844         		Paid              91
+1030    Sajjid            	Male      	2nd Year          845         		Paid              81
+1031    Akif              	Male      	1st Year          846         		Paid              92
+1032    Aqib              	Male      	1st Year          847         		Paid              82
+1033    Aisa              	Male      	2nd Year          833         		Paid              93
+1034    Ahmaar            	Male      	1st Year          834         		Paid              83
+1035    Imran Ali         	Male      	1st Year          835         		Paid              94
+1036    Afham             	Male      	2nd Year          836         		Paid              84
+1037    Afan              	Male      	1st Year          837         		Paid              89
+1038    Furqan Sarwar     	Male      	2nd Year          838         		Unpaid            87
+1039    Faris             	Male      	1st Year          839         		Paid              88
+1040    Fakhar            	Male      	2nd Year          830         		Paid              86
+1041    Aliyan            	Male      	1st Year          841         		Paid              85
+1042    Aamil             	Male      	2nd Year          842         		Paid              84
+1043    Zaviya            	Male      	1st Year          843         		Paid              83
+1044    William           	Male      	1st Year          844         		Paid              82
+1045    Hadid             	Male      	1st Year          850         		Paid              81
+1046    Abbad             	Male      	2nd Year          850         		Paid              79
+1047    Aaeze             	Male      	1st Year          847         		Paid              78
+1048    Salar Sikandar    	Male      	1st Year          848         		Paid              71
+1049    Aahil             	Male      	2nd Year          849         		Paid              76
+1050    Adam              	Male      	1st Year          830         		Paid              72
+1051    Naba              	Female    	1st Year          831         		Unpaid            77
+1052    Zumar             	Female    	1st Year          832         		Paid              74
+1053    Tahira            	Female    	2nd Year          833         		Paid              73
+1054    Areeba Raees      	Female    	2nd Year          834         		Paid              75
+1055    Haniya Sarwar     	Female    	1st Year          835         		Paid              71
+1056    Mahnoor Khan      	Female    	2nd Year          836         		Paid              81
+1057    Zaymal            	Female    	1st Year          837         		Paid              91
+1058    Uzaima            	Female    	1st Year          838         		Paid              72
+1059    Samia             	Female    	2nd Year          839         		Paid              82
+1060    Sanam Khan        	Female    	1st Year          850         		Paid              92
+1061    Sadia Amir        	Female    	1st Year          841         		Paid              73
+1062    Sehrosh           	Female    	2nd Year          842         		Paid              83
+1063    Sehar             	Female    	2nd Year          843         		Paid              93
+1064    Jannat            	Female    	1st Year          844         		Paid              74
+1065    Jamaima           	Female    	2nd Year          845         		Unpaid            84
+1066    Habiba            	Female    	1st Year          846         		Paid              94
+1067    Hiba              	Female    	2nd Year          847         		Paid              75
+1068    Zeenat            	Female    	1st Year          848         		Paid              85
+1069    Hannah            	Female    	1st Year          849         		Paid              95
+1070    Faiqa             	Female    	2nd Year          830         		Paid              76
+1071    Yasmeen           	Female    	1st Year          831         		Paid              86
+1072    Jasmin            	Female    	1st Year          832         		Paid              77
+1073    Umaima            	Female    	2nd Year          833         		Paid              87
+1074    Unaiza            	Female    	1st Year          834         		Paid              78
+1075    Ifra              	Female    	1st Year          835         		Paid              88
+1076    Nafeesa           	Female    	1st Year          836         		Unpaid            79
+1077    Nasreen           	Female    	2nd Year          837         		Paid              89
+1078    Shumail           	Female    	1st Year          838         		Paid              90
+1079    Rubina            	Female    	1st Year          839         		Paid              70
+1080    Sajida            	Female    	2nd Year          850         		Paid              80
+1081    Hafsah            	Female    	1st Year          850         		Paid              79
+1082    Hareem            	Female    	2nd Year          842         		Paid              87
+1083    Zunaira           	Female    	2nd Year          843         		Paid              76
+1084    Tayyaba           	Female    	1st Year          834         		Paid              82
+1085    Talat             	Female    	1st Year          845         		Paid              84
+1086    Aneela            	Female    	1st Year          836         		Unpaid            88
+1087    Yousra            	Female    	2nd Year          847         		Paid              91
+1088    Yashfa            	Female    	1st Year          838         		Paid              72
+1089    Haniya            	Femal     	1st Year          849         		Paid              82
+1090    Kinza             	Female    	1st Year          830         		Paid              92
+1091    Hadiya            	Female    	1st Year          841         		Paid              74
+1092    Zebaish           	Female    	1st Year          832         		Paid              84
+1093    Sana              	Female    	2nd Year          843         		Paid              85
+1094    Memoma            	Female    	1st Year          834         		Paid              89
+1095    Khadija           	Female    	1st Year          845         		Paid              87
+1096    Sunita            	Female    	1st Year          836         		Paid              91
+1097    Ayesha Umer       	Female    	2nd Year          847         		Paid              81
+1098    Humna Iqbal       	Female    	1st Year          838         		Unpaid            72
+1099    Hooriya           	Female    	2nd Year          849         		Paid              77
+1100    Pakiza            	Female    	2nd Year          850         		Paid              84

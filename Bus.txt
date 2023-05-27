@@ -1,0 +1,14 @@
+BusID:		  Bus Number:	  Driver:	   Seats:    Route:
+
+701  		  LEA-2109  	  Shafeeq 	   40 	     Johar-Town
+702  		  LEZ-3321  	  Ishfaq 	   40 	     Model-Town
+703               LAF-3132        Nazaqat          40        Kalma Chowk
+704               LEO-8797        Ashraf           40        Township
+705               ULF-2828        Saleem           40        Shad Bagh
+706               ABC-1234        Waseem           40        Bahria Town
+707               ENO-1122        Nasir            40        Ravi Road
+708               DNA-4455        Hashim           40        Allama Iqbal Town
+709               ZEL-5393        Qasim            40        Wahdat Colony
+710               ANH-5678        Mustafa          40        Band Road
+711               ZKJ-9999        Abbas            40        Wapda Colony
+712               LEM-3587        Pervaiaz         40        Muslim Town

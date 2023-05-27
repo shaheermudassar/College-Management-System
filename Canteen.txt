@@ -1,0 +1,17 @@
+Items:		  Price Rs.:	  Available:
+
+Lays  		  50  		  Yes
+Biryani  	  120  		  No
+Fries             50              Yes
+Biscuits          40              Yes
+Patties           60              No 
+CreamRoll         60              No
+Sandwich          80              Yes
+FruitChat         100             Yes
+AloChat           100             Yes
+Bottle            70              No 
+Juice             50              Yes
+Tea               60              No
+Coffee            90              No
+Samoosa           75              Yes
+Soup              200             Yes

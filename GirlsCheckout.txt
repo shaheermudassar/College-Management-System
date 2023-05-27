@@ -1,0 +1,13 @@
+StudentID	  Name		  Room	   Time
+
+2058  		  Hafsah  	  12 	   6:06PM
+1077              Nasreen         14       6:34PM
+1082              Hareem          07       5:45PM
+2061              Maham           23       7:15PM
+2070              Bisma           19       6:18PM
+2065              Nimra Fatima    08       7:02PM
+1092              Zebaish         04       4:55PM
+2077              Samra           11       6:11PM
+1090              Kinza           21       5:58PM
+1094              Memona          02       4:44PM
+

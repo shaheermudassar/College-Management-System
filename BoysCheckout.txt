@@ -1,0 +1,13 @@
+StudentID	  Name		  Room	  Time
+
+1012              Muzammil        03       5:54PM
+2008              Rafy Rohan      17       4:55PM
+1009              Irshad          22       6:36PM
+1022              Uzair Ali       25       7:52PM
+2016              Afzal           16       7:18PM
+1007              Faheem          09       5:40PM
+2022              Husnain Imran   10       6:09PM
+1023              Ubaid           05       4:33PM
+2011              Furqan          15       5:12PM
+2014              Bilal           24       7:03PM
+
